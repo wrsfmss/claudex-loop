@@ -1,0 +1,7 @@
+name: claudex-cos
+version: 0.1.0
+description: Chief-of-staff / personal-assistant layer for Hermes that triages work by autonomy tier and routes it through claudex-route and claudex-loop.
+provides_tools:
+  - claudex_cos_brief
+  - claudex_cos_triage
+  - claudex_cos_delegate
